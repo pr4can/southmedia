@@ -1071,7 +1071,7 @@ input:checked + .form__label::after {
 	}
 }
 
-@media screen and (max-height: 660px) and (max-width: 350px) {
+@media screen and (max-height: 660px) {
 	.feedback__left {
 		display: none;
 	}
